@@ -10,7 +10,7 @@ import Toolstack from "./Toolstack";
 function About() {
   return (
     <Container fluid className="about-section">
-      <Particle />
+     <iframe src="https://lottie.host/embed/e2d399b6-597d-4bda-9f05-237f5a46824b/q9bao4wDDs.json"></iframe>
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
