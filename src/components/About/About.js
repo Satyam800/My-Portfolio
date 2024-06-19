@@ -10,7 +10,7 @@ import Toolstack from "./Toolstack";
 function About() {
   return (
     <Container fluid className="about-section">
-     <iframe src="https://lottie.host/embed/e2d399b6-597d-4bda-9f05-237f5a46824b/q9bao4wDDs.json"></iframe>
+     
       <Container>
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
@@ -31,7 +31,8 @@ function About() {
             style={{ paddingTop: "120px", paddingBottom: "50px" }}
             className="about-img"
           >
-            <img src={laptopImg} alt="about" className="img-fluid" />
+            <iframe  style={{height:"450px",width:"450px"}} src="https://lottie.host/embed/e2d399b6-597d-4bda-9f05-237f5a46824b/q9bao4wDDs.json"></iframe>
+            
           </Col>
         </Row>
         <h1 className="project-heading">

@@ -19,18 +19,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            My journey into the world of web development started with a curiosity for how web-app work and quickly turned into a love for coding and design 🤷‍♂️
               <br />
               <br />
               <i>
-                <b className="purple"> C++, Javascript </b>
+              In my portfolio, you'll find a selection of projects that showcase my   <b className="purple"> technical expertise, creative problem-solving abilities, and commitment </b>to delivering high-quality user experiences.
+              
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              I thrive on challenges and am always eager to learn new technologies and techniques to enhance my work. Whether it's experimenting with the latest
               <i>
-                <b className="purple">Web Technologies and Products </b>
+                <b className="purple"> CSS frameworks or diving into the world of React </b>
                 
               </i>
               <br />

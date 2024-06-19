@@ -25,7 +25,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="Netflix-GPT"
               description="Movie Recommendation platform using React, Firebase, TailwindCSS & OPENAI. Share movie review on twitter, speech recognition for movie search"
               ghLink="https://github.com/Satyam800/NetflixGPT"
               demoLink="https://netflix-gpt-sand-eta.vercel.app/"
@@ -38,7 +38,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Insta-chat"
               description="Social media platform using React, TailwindCSS, Redux, Express, Node, MongoDB. post an tweet with hashtag,photo/gif,text"
               ghLink="https://github.com/Satyam800/InstaChat"
               demoLink="https://insta-chat-three.vercel.app/"              
@@ -49,7 +49,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Plant AI"
+              title="Showtube"
               description="video streaming platform using React, TailwindCSS, Redux, Express, Node, MongoDB.subscribe,like,comment,notes taking  and many more feature integrated"
               ghLink="https://github.com/Satyam800/Showtube"
               demoLink="https://showtube-eosin.vercel.app/"
